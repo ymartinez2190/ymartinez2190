@@ -17,11 +17,11 @@ _________________________________________
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="75" height="75"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="75" height="75"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="75" height="75"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="75" height="75"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="75" height="75">
 
 
-## Base de datos
+## Databases
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="75" height="75"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" width="75" height="75"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="75" height="75">
 
 
-## Frameworks web
+## Web frameworks
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="75" height="75"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="75" height="75">
 
  
