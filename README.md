@@ -1,6 +1,6 @@
  
 # Programadora de aplicaciones tipo Desktop y web
-_________________________________________
+
 **:red_circle:If you speak english, read my description in this file:** [click here!](README(ENG).md):red_circle:
 
 
@@ -15,7 +15,21 @@ Espero que encuentres algo de utilidad y si deseas contactarme puedes escribirme
  ¡Saludos:smile:!
  
  # Lenguajes de programación
-_________________________________________
+
+## Desktop
+
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
+![CPLUSPLUS](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)
+![PYTHON](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+## Web
+
+![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
+![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg)
+![REACT](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
+## Base de datos
+
+## Frameworks web
+![BOOTSTRAP](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)
 
  ###### Enlaces:
  - https://www.instagram.com/astracode.pty
