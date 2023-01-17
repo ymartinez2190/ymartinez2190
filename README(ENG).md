@@ -1,5 +1,7 @@
 # Desktop and web programmer
 _________________________________________
+**:red_circle:Si hablas español, lee mi descripción en este archivo:** [¡click aquí!](README.md):red_circle:
+
  👋 Hello! My name is Yessenia. I am a programmer that In my spare time I enjoy playing video games :video_game: and reading. I am also dedicated to teaching. 
  
  I'm currently taking courses to update myself with the changes that some programming languages have had.
