@@ -1,7 +1,7 @@
  
 # Programadora de aplicaciones tipo Desktop y web
 _________________________________________
-If you speak english, read my description in this file: [click here](README(ENG).md)
+**:red_circle:If you speak english, read my description in this file:** [click here!](README(ENG).md):red_circle:
 
 
 👋 ¡Hola! Mi nombre es Yessenia. Soy una programadora que en mi tiempo libre disfruto de los videojuegos :video_game: y leer. También me dedico a la docencia. Actualmente estoy tomando cursos para actualizarme con los cambios que han tenido algunos lenguajes de programación.
